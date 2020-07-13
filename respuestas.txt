@@ -1,3 +1,5 @@
 2_f)
 
 No se puede ver el archivo, al crear un branch se modifica la ubicacion de el archivo.
+
+j)GitK es un visor grafico. Esta herramienta nos sirve para visualizar el historial de su proyecto, las ramas y los commit. 
